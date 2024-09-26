@@ -1,0 +1,15 @@
+article {
+  background-color: rgb(255 204 8);
+  border: 8px solid rgb(49 103 178);
+  border-radius: 12px;
+  width: fit-content;
+  padding: 3rem;
+  color: black;
+}
+
+.cardSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+}

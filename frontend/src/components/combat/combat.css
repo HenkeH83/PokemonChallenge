@@ -1,0 +1,13 @@
+.btnWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fightBtn {
+  padding: 3rem;
+  background-color: rgb(49 103 178);
+  border-radius: 10px;
+  color: white;
+  font-size: xx-large;
+}

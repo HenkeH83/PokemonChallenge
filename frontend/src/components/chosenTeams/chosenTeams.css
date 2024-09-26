@@ -1,0 +1,10 @@
+.selectedTeams {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.selectedTeamImg {
+  width: 20vw;
+  height: auto;
+}
